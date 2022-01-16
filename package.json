@@ -1,0 +1,18 @@
+{
+  "name": "remove-hand-writing",
+  "version": "1.0.0",
+  "description": "remove hand writing for examination paper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sean wan",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  }
+}
